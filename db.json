@@ -13,6 +13,13 @@
         "age": 3,
         "place": "Banglore",
         "gender": "Female"
+      },
+      {
+        "id": 3,
+        "name": "Puppy",
+        "age": 4,
+        "place": "Bhubaneswar",
+        "gender": "Female"
       }
     ]
   }
